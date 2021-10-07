@@ -1,0 +1,14 @@
+2021-09-18 19:17:49.2997|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-18 19:17:49.3310|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-18 19:17:49.3375|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\gunes\source\repos\NLog.API\NLog.API |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-18 19:17:51.3724|0|INFO|NLog.API.Controllers.ValuesController|Information girildi. |url: https://localhost/api/Values|action: Get|NLog.API.Controllers.ValuesController.Get| body: 
+2021-09-18 19:17:51.3724|0|WARN|NLog.API.Controllers.ValuesController|Warning girildi |url: https://localhost/api/Values|action: Get|NLog.API.Controllers.ValuesController.Get| body: 
+2021-09-18 19:17:51.3724|0|ERROR|NLog.API.Controllers.ValuesController|Error girildi. |url: https://localhost/api/Values|action: Get|NLog.API.Controllers.ValuesController.Get| body: 
+2021-09-18 19:17:52.8148|0|FATAL|NLog.API.Controllers.ValuesController|Critical girildi. |url: https://localhost/api/Values|action: Get|NLog.API.Controllers.ValuesController.Get| body: 
+2021-09-18 19:18:39.1160|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-18 19:18:39.1492|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-18 19:18:39.1492|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\gunes\source\repos\NLog.API\NLog.API |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-18 19:18:41.2152|0|INFO|NLog.API.Controllers.ValuesController|Information girildi. |url: https://localhost/api/Values|action: Get|NLog.API.Controllers.ValuesController.Get| body: 
+2021-09-18 19:18:41.2219|0|WARN|NLog.API.Controllers.ValuesController|Warning girildi |url: https://localhost/api/Values|action: Get|NLog.API.Controllers.ValuesController.Get| body: 
+2021-09-18 19:18:41.2219|0|ERROR|NLog.API.Controllers.ValuesController|Error girildi. |url: https://localhost/api/Values|action: Get|NLog.API.Controllers.ValuesController.Get| body: 
+2021-09-18 19:18:42.4146|0|FATAL|NLog.API.Controllers.ValuesController|Critical girildi. |url: https://localhost/api/Values|action: Get|NLog.API.Controllers.ValuesController.Get| body: 
